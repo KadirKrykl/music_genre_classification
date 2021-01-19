@@ -75,6 +75,5 @@ for i in range(10):
 df = pd.DataFrame.from_dict(dict_for_df)
 graph = df.boxplot()
 graph.set_ylabel('Accuracy (%)')
-plt.show()
 plt.savefig("BaggingClassifier.pdf")
 plt.close()
