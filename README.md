@@ -7,8 +7,11 @@ To manually classify a music sample or song, one needs to listen to the song and
 # Team & Roles
 
 Kadir Karayakalı 160709052 -> Data Preprocessing - SVM 
+
 Berkcan Erguncu 160709005 -> PCA - Ensemble Learning-based Classification
+
 Mandana Zooyousefin 180709711 -> KNN Classification - Neural Network-based Classification
+
 
 # Structure
 
