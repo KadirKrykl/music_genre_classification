@@ -17,7 +17,7 @@ Mandana Zooyousefin 180709711 -> KNN Classification - Neural Network-based Class
 
 Scripts written for preprocess, pca and classification steps are in the SectionalFilesForReport file. Classifier file, on the other hand, is an easy-to-run state that contains all the operations. In order to run the system, processing is required in test.py file.
 
-In the report folder, we have the latex code, pdf version and graphics of our report. In addition, all the graphs we use in the report can be accessed in the graph folder.
+In the report folder, we have the latex code, pdf version and graphics of our report. In addition, all the graphs we use in the report can be accessed in the graphs folder.
 
 # Language, version, and main file
 
